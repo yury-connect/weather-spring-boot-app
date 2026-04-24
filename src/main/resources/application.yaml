@@ -4,4 +4,4 @@ spring:
 
 #Если тут город не переопределить - по подхватит дефолтное из стартера
 openweathermap-starter:
-  city: Gomel
+  city: Minsk
